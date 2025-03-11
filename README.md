@@ -1,7 +1,3 @@
-#commands
-STOP-Bot: pkill -f "python3 bot.py" && python3 bot.py
-Run-bot: python3 bot.py
-
 # Installation Helper Bot
 
 Telegram бот для допомоги з встановленням програмного забезпечення.
